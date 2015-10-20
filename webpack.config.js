@@ -2,10 +2,10 @@ var path = require('path');
 var webpack = require('webpack');
 
 module.exports = {
-    entry: './demo/script.js',
+    entry: './Paginator.jsx',
     output: {
-        path: './demo/build',
-        filename: 'bundle.js',
+        path: './lib',
+        filename: 'Paginator.js',
     },
     module: {
         loaders: [
