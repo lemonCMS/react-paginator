@@ -20,7 +20,6 @@
   "scripts": {
     "build": "jsx Paginator.jsx > bundle.js",
     "prepublish": "npm run build",
-    "install": "\"npm install\" && \"npm run build\"",
     "demo": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
