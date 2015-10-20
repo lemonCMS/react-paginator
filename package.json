@@ -4,10 +4,9 @@
   "description": "Bootstrap paginator for React based in the Laravel Paginator",
   "main": "./lib/Paginator.js",
   "dependencies": {
-    "bootstrap": "^3.3.5",
     "classnames": "^2.1.3",
     "lodash": "^3.10.0",
-    "react": "^0.13.3"
+    "react": "^0.14.0"
   },
   "devDependencies": {
     "css-loader": "^0.15.5",
