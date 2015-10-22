@@ -11,6 +11,7 @@
   "devDependencies": {
     "css-loader": "^0.15.5",
     "file-loader": "^0.8.4",
+    "jsx": "0.9.89",
     "react-tools": "^0.13.3",
     "sprintf-js": "^1.0.3",
     "style-loader": "^0.12.3",
