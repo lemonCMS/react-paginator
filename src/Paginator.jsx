@@ -156,4 +156,4 @@ Paginator.propTypes = {
   onChange: PropTypes.func.isRequired
 };
 
-exports.default = Paginator;
+export default Paginator;
